@@ -9,10 +9,12 @@ Plugin 'vim-ruby/vim-ruby'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'thoughtbot/vim-rspec'
 Plugin 'tpope/vim-sensible'
+Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-rails'
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'christoomey/vim-tmux-runner'
 Plugin 'vim-syntastic/syntastic'
+Plugin 'ervandew/supertab'
 call vundle#end()
 " Space is leader key
 let mapleader = " "
